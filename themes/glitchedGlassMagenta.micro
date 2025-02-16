@@ -1,0 +1,46 @@
+# common
+color-link default "#9aad9a"
+color-link comment "#4d4d4d"
+
+# specials
+color-link statement "#a966cc"
+color-link constant "#7699cc"
+color-link constant.string "#7732cc"
+color-link constant.string.char "#7644aa"
+color-link identifier "#bb76cc"
+color-link identifier.var "#cc66cc"
+color-link identifier.class "#d67cb1"
+color-link type "#cc32cc"
+color-link type.keyword "#ed1e77"
+
+# others
+color-link preproc "#ff99cc"
+color-link special "#ff99cc"
+color-link underlined "#ff43a9"
+color-link error "bold #32ff32"
+color-link todo "bold #cc66cc"
+color-link indent-char "#2e2226,#cc66cc"
+
+# errors
+color-link gutter-error "#32ff32,#1c1114"
+color-link gutter-warning "#ff43a9,#1c1114"
+color-link error-message "#1c1114,#7cd67e"
+
+# symbols
+color-link match-brace "#cc66cc,#cc66cc"
+color-link symbol "#d95db3"
+color-link symbol.operators "#778800"
+color-link symbol.brackets "#cc66cc"
+
+# cursor
+color-link line-number "#784567"
+color-link current-line-number "#cc66cc,#1c1114"
+color-link cursor-line "#2e2226"
+color-link color-column "#1c1114"
+color-link selection "#2e2226,#757575"
+
+# UI
+color-link statusline "#2e2226,#cc66cc"
+color-link tabbar "#2e2226,#cc66cc"
+color-link divider "#cc66cc,#2e2226"
+
