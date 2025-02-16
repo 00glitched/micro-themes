@@ -17,14 +17,14 @@ color-link type.keyword "#1f78ed"
 color-link preproc "#99CCFF"
 color-link special "#99CCFF"
 color-link underlined "#44AAFF"
-color-link error "bold #FF3333"
 color-link todo "bold #66CCCC"
 color-link indent-char "#22272E,#66CCCC"
 
 # errors
+color-link error "bold #FF3333"
+color-link error-message "#11151C,#d67f7c"
 color-link gutter-error "#FF3333,#11151C"
 color-link gutter-warning "#44AAFF,#11151C"
-color-link error-message "#11151C,#d67f7c"
 
 # symbols
 color-link match-brace "#66CCCC,#66CCCC"
